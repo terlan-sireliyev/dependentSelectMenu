@@ -25,7 +25,7 @@ export default function DependentSelect() {
                     <option value="">City</option>
                     {
                         cities.map((ctr) => {
-                            return <option value={ctr.name}>{ctr.name}</option>
+                            return <option value={ctr.nameDistrict}>{ctr.nameDistrict}</option>
                         })
                     }
                 </select>

@@ -3,19 +3,19 @@
         "name": "Azərbaycan",
         "states": [
             {
-                "name": "Baki"
+                "nameDistrict": "Baki"
             },
             {
-                "name": "Sumqayit"
+                "nameDistrict": "Sumqayit"
             },
             {
-                "name": "Gence"
+                "nameDistrict": "Gence"
             },
             {
-                "name": "Sabirabad"
+                "nameDistrict": "Sabirabad"
             },
             {
-                "name": "Şirvan"
+                "nameDistrict": "Şirvan"
             }
         ]
     },
@@ -23,22 +23,22 @@
         "name": "Türkiyə",
         "states": [
             {
-                "name": "Istanbul"
+                "nameDistrict": "Istanbul"
             },
             {
-                "name": "Izmir"
+                "nameDistrict": "Izmir"
             },
             {
-                "name": "Ankara"
+                "nameDistrict": "Ankara"
             },
             {
-                "name": "Qazentep"
+                "nameDistrict": "Qazentep"
             },
             {
-                "name": "Erzurum"
+                "nameDistrict": "Erzurum"
             },
             {
-                "name": "Malatya"
+                "nameDistrict": "Malatya"
             }
         ]
     }
