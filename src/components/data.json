@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Azərbaycan",
+        "states": [
+            {
+                "name": "Baki"
+            },
+            {
+                "name": "Sumqayit"
+            },
+            {
+                "name": "Gence"
+            },
+            {
+                "name": "Sabirabad"
+            },
+            {
+                "name": "Şirvan"
+            }
+        ]
+    },
+    {
+        "name": "Türkiyə",
+        "states": [
+            {
+                "name": "Istanbul"
+            },
+            {
+                "name": "Izmir"
+            },
+            {
+                "name": "Ankara"
+            },
+            {
+                "name": "Qazentep"
+            },
+            {
+                "name": "Erzurum"
+            },
+            {
+                "name": "Malatya"
+            }
+        ]
+    }
+]
