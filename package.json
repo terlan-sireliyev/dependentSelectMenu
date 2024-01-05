@@ -1,5 +1,5 @@
 {
-  "name": "dependent-select",
+  "name": "dependent",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
